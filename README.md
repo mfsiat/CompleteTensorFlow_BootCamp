@@ -26,3 +26,12 @@
 > We have a data, on which we have features like **Heights and Weights** for breeds of dogs and we have no **labels**. Our Taks will be to **cluster together** the data into similar groups. It is then up to the **data scientist to interpret the cluster. **
 
 * Clustering wont be able to tell us what the group labels should be but it will split the data on the basis of their similarity. 
+
+## Reinforcement Learning 
+* So this learning method works through trail and error which actions yeild the greatest rewards. 
+* Components 
+	* **Agent**-Learning/Decision Maker
+	* **Environment** - what Agent interacts with 
+	* **Actions** - What the Agent can do. 
+* So the agent chooses actions that maximize some specified reward metric over a given amount of time. 
+* Then the agent will learn the best policy with the environment and will response with best actions. 
