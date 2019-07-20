@@ -23,7 +23,7 @@
 * Here we have **Clusters** or we can say **Clustering**.
 * Our task is to cluster it into similar groups. 
 * Example
-> We have a data, on which we have features like **Heights and Weights** for breeds of dogs and we have no **labels**. Our Taks will be to **cluster together** the data into similar groups. It is then up to the **data scientist to interpret the cluster. **
+> We have a data, on which we have features like **Heights and Weights** for breeds of dogs and we have no **labels**. Our Taks will be to **cluster together** the data into similar groups. It is then up to the **data scientist to interpret the cluster**.
 
 * Clustering wont be able to tell us what the group labels should be but it will split the data on the basis of their similarity. 
 
