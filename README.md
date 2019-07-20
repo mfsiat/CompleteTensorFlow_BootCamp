@@ -17,3 +17,10 @@
 * Supervised Learning has the model train on historical data that is already labeled 
 * Once the model is trained, it can then be used on new data, where only the features are known, to attempt prediction. 
 * But if we dont have the historical labels then what will we do? we need to look for **patterns** in the data and find a structure. Then we move on to **Unsupervised Learning** 
+
+## Unsupervised Learning
+* When we dont have the labels or any type of historical values then we use **Unsupervised Learning** 
+* Here we have **Clusters** or we can say **Clustering**.
+* Our task is to cluster it into similar groups. 
+* Example
+> We have a data, on which we have features like **Heights and Weights** for breeds of dogs and we have no **labels**. Our Taks will be to **cluster together** the data into similar groups. It is then up to the **data scientist to interpret the cluster. **
