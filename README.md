@@ -35,3 +35,6 @@
 	* **Actions** - What the Agent can do. 
 * So the agent chooses actions that maximize some specified reward metric over a given amount of time. 
 * Then the agent will learn the best policy with the environment and will response with best actions. 
+
+## Work flow 
+![Basic Work Flow](basicworkflow.png)
