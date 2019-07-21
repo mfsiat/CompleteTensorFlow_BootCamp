@@ -36,5 +36,14 @@
 * So the agent chooses actions that maximize some specified reward metric over a given amount of time. 
 * Then the agent will learn the best policy with the environment and will response with best actions. 
 
-## Work flow 
+## Work Flow 
 ![Basic Work Flow](basicworkflow.png)
+
+* Data Acquisition: well we need to acquire data for our task so basically it depends on the task.
+* Data Cleaning: We need to clean the data, split clean tak out edges or normalaize the data. 
+* Test & Train: ratio could be 30% on test and 70% on trainning.
+* Train Model: we now fit our model with the training set. like the model that we'll be using now we need to fit our data into the model and we need to train the model with our data. 
+* Evaluate Model: now we evaluate the model with our test data. 
+*Now Adjust the Model Parameters*
+* Deploy Model: now if all goes well then just deploy the model. 
+> On **Unspuervised learning** we dont have any test set because we dont have any label. So we use all the data as **training data and evaluate the model with the training data**. So that we can justify our model. 
